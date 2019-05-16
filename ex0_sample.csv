@@ -1,3 +1,0 @@
-import csv
-csvfile=open("ex0_sample.csv",'r')
-reader=csv.reader(csvfile)
